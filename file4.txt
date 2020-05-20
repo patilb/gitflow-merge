@@ -1,1 +1,2 @@
-This is the new branch.
+Active branch.
+New line
